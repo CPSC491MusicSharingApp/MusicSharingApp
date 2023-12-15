@@ -5,6 +5,16 @@
 
 Social Music Sharing App using Spotify
 
+## Our Information
+### Members:
+* Name: Nolan Winter
+* Email: ngwinter@csu.fullerton.edu
+* Name: Tyler Aguilar
+* Email: aguilart01@csu.fullerton.edu
+* Name: Wesley Zoroya
+* Email: wzoroya@csu.fullerton.edu
+* Name: Justin Perez
+* Email: justingp45@csu.fullerton.edu
 
 
 ### Built With
